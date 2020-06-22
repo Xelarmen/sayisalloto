@@ -28,12 +28,4 @@ for result in results:
         sonuclar.append((str(kolonsayisi+1)) + ". Kolonda " + str(basarilisayac) + " Tane Bildiniz!")
     kolonsayisi = kolonsayisi + 1
 
-
-
-
 print(sonuclar)
-
-
-
-
-
